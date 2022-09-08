@@ -1,6 +1,3 @@
-def ard_serial_sub(ser):
-
-	import serial, sys
 class ard_serial_read:
 
   def read_serial(self,ser):
